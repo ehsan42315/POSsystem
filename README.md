@@ -4,7 +4,7 @@ A complete Point of Sale (POS) system built with PHP, MySQL, Bootstrap, and Java
 
 ## Features
 
-✅ **Core Features Implemented:**
+ **Core Features Implemented:**
 - Product Management (CRUD operations)
 - Sales/Billing Module with cart functionality
 - Stock Update after sales
@@ -14,7 +14,7 @@ A complete Point of Sale (POS) system built with PHP, MySQL, Bootstrap, and Java
 - Dashboard with sales summary
 - User management (Admin only)
 
-✅ **Additional Features:**
+ **Additional Features:**
 - Product search and filtering
 - Low stock alerts
 - Responsive design
@@ -210,3 +210,4 @@ For issues and questions:
 1. Check the troubleshooting section
 2. Verify all prerequisites are met
 3. Ensure database is properly configured
+
