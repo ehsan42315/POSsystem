@@ -95,7 +95,7 @@ A complete Point of Sale (POS) system built with PHP, MySQL, Bootstrap, and Java
 ## File Structure
 
 ```
-pos-system/
+POSsystem/
 ├── assets/
 │   └── css/
 │       └── style.css          # Custom styles
@@ -200,21 +200,9 @@ Custom styles are in `assets/css/style.css`. The system uses Bootstrap 5 for res
    - Enable error reporting in PHP
    - Check PHP version compatibility
 
-## Future Enhancements
-
-Potential features to add:
-- PDF invoice generation
-- Barcode scanner integration
-- Customer management
-- Discount and tax calculations
-- Inventory alerts
-- Sales reports and analytics
-- Multi-store support
-- API integration
-
 ## License
 
-This project is open source and available under the MIT License.
+This project is open source and is on no license
 
 ## Support
 
@@ -226,3 +214,4 @@ For issues and questions:
 ---
 
 **Note:** This is a complete, production-ready POS system suitable for small retail shops. All core features requested have been implemented with additional enhancements for better user experience.
+
